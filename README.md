@@ -10,5 +10,5 @@ Navigate to `http://localhost:4040/sudoku?board=4...3.......6..8..........1....5
 
 You should see the solver progress generated in MJPEG format.
 
-![](https://github.com/agrigoryan/sudoku/raw/master/img/output.gif)
+![](https://github.com/agrigoryan/sudoku/blob/main/img/output.gif)
 
